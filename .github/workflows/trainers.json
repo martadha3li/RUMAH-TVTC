@@ -1,0 +1,23 @@
+{
+    "25922": {
+        "name": "مرتضى علي سلمان الناصر",
+        "department": "الحاسب و تقنية المعلومات",
+        "status": "active",
+        "role": "مدرب",
+        "password": "1598886cf27e3e5afa4a05ddd5b926d56af9a8038bc72f24fddebe4e3751ffc6"
+    },
+    "123456": {
+        "name": "ريس حاسب",
+        "department": "الحاسب و تقنية المعلومات",
+        "status": "active",
+        "role": "رئيس قسم",
+        "password": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92"
+    },
+    "123123": {
+        "name": "وكيل",
+        "department": "الحاسب و تقنية المعلومات",
+        "status": "active",
+        "role": "وكيل شؤون متدربين",
+        "password": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92"
+    }
+}
